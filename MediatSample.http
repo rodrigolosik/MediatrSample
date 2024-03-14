@@ -1,0 +1,7 @@
+@MediatSample_HostAddress = http://localhost:5117
+
+GET {{MediatSample_HostAddress}}/Pessoas/
+Accept: application/json
+
+
+
